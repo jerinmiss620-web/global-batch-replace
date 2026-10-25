@@ -1,0 +1,11 @@
+{
+  "display_name": "全局批量查找与替换",
+  "loading_order": 55,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "Local standalone edition; batch modules based on Writer Workbench local additions",
+  "version": "1.1.0",
+  "homePage": "https://github.com/jerinmiss620-web/global-batch-replace"
+}
